@@ -1,0 +1,16 @@
+name: com.frokongames.tools.buildhisotry
+displayName: Build History
+description: Keep a history of all the builds you do.
+repoUrl: https://github.com/FronkonGames/Build-History
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - editor-enhancement
+hunter: FronkonGames
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1700567196095
